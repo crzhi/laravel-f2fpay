@@ -11,13 +11,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Cuuuuuirz\\F2FPay\\": "src/"
+            "Cuuuuuirz\\LaravelF2FPay\\": "src/"
         }
     },
     "extra": {
     "laravel": {
         "providers": [
-            "Cuuuuuirz\\F2FPay\\ServiceProvider"
+            "Cuuuuuirz\\LaravelF2FPay\\ServiceProvider"
         ]
     }
 }
