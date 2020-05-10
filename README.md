@@ -1,4 +1,4 @@
-<h1 align="center"> f2fpay </h1>
+<h1 align="center"> laravel-f2fpay </h1>
 
 <p align="center"> a laravel composer package for alipay f2fpay.</p>
 
