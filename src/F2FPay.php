@@ -1,6 +1,6 @@
 <?php
 
-namespace Cuuuuuirz\F2FPay;
+namespace Cuuuuuirz\LaravelF2FPay;
 
 use GuzzleHttp\Client;
 
