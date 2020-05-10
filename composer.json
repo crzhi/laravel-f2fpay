@@ -1,0 +1,24 @@
+{
+    "name": "cuuuuuirz/f2fpay",
+    "description": "a composer package for alipay f2fpay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cuuuuuirz",
+            "email": "cuuuuuirz@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cuuuuuirz\\F2FPay\\": "src/"
+        }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Cuuuuuirz\\F2FPay\\ServiceProvider"
+        ]
+    }
+}
+}
