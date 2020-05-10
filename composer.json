@@ -1,6 +1,6 @@
 {
-    "name": "cuuuuuirz/f2fpay",
-    "description": "a composer package for alipay f2fpay",
+    "name": "cuuuuuirz/laravel-f2fpay",
+    "description": "a laravel composer package for alipay f2fpay",
     "license": "MIT",
     "authors": [
         {

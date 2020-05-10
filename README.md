@@ -1,12 +1,12 @@
 <h1 align="center"> f2fpay </h1>
 
-<p align="center"> a composer package of alipay f2fpay.</p>
+<p align="center"> a laravel composer package for alipay f2fpay.</p>
 
 
 ## Installing
 
 ```shell
-$ composer require cuuuuuirz/f2fpay -vvv
+$ composer require cuuuuuirz/laravel-f2fpay -vvv
 ```
 
 ## Usage
